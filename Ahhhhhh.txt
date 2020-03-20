@@ -1,11 +1,14 @@
 This is a text file! See how it chnages over time, denoted by the pen icon?
-It's pretty cool!
+It's pretty dang cool!
 
 
 
 
+h
 
+See how whole lines change? 
+Git mostly cares only about changes per lines
 
-
+Now you go! Add some stuff to the next line and make a commit!
 
 More lines whoo!
